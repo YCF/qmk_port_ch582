@@ -13,3 +13,6 @@
 [submodule "mcuboot"]
 	path = mcuboot
 	url = https://github.com/mcu-tools/mcuboot.git
+[submodule "qmk_porting/keyboards_ble"]
+	path = mcuboot
+	url = https://github.com/YCF/keyboards_ble.git
